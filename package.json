@@ -1,0 +1,15 @@
+{
+  "name": "nodewinstonloggerclient",
+  "version": "1.0.0",
+  "description": "A node logger wrapper over winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "author": "Suresh Prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "winston": "^2.4.0"
+  }
+}
