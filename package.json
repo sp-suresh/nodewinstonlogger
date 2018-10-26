@@ -1,5 +1,5 @@
 {
-  "name": "nodewinstonloggerclient",
+  "name": "nodewinstonlogger",
   "version": "1.0.0",
   "description": "A node logger wrapper over winston",
   "main": "index.js",
